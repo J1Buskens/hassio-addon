@@ -33,7 +33,7 @@ Follow these steps to get the add-on installed on your system:
         - config_file: /config/evcc.yaml
         - sqlite_file: /data/evcc.db
   - evcc configuration file evcc.yaml
-      - Copy https://github.com/evcc-io/evcc/blob/master/evcc.dist.yaml to your homeassistant config directory
+      - Copy https://github.com/J1Buskens/evcc/blob/master/evcc.dist.yaml to your homeassistant config directory
       - Rename  evcc.dist.yaml to evcc.yaml (note: configure first to your needs the evcc.yaml or use a working configuration)
         
         Location of "config" directroy in HA:
@@ -51,6 +51,6 @@ To do this, perform the steps in the documentation of evcc to create a configura
   - https://docs.evcc.io/docs/installation/manual
 
 
-# Configuration of [evcc](https://github.com/evcc-io/evcc)
+# Configuration of [evcc](https://github.com/J1Buskens/evcc)
 
    - https://docs.evcc.io/docs/guides/setup

@@ -1,4 +1,4 @@
-# Home Assistant EV Charge Controller Add-on: [evcc](https://github.com/evcc-io/evcc)
+# Home Assistant EV Charge Controller Add-on: [evcc](https://github.com/J1Buskens/evcc)
 
 EVCC is an extensible EV Charge Controller with PV integration implemented in Go.
 
@@ -30,17 +30,17 @@ Configuration is read from an evcc standard configuration file. It is currently 
 `/config/evcc.yaml`
 in your Home Assistant installation.
 
-You can find documentation about the configuration format and sample configurations at [evcc](https://github.com/evcc-io/evcc#configuration)
+You can find documentation about the configuration format and sample configurations at [evcc](https://github.com/J1Buskens/evcc#configuration)
 
 ## Support
 
 Got questions?
 
-Please [open an issue](https://github.com/evcc-io/evcc/issues) in Github
+Please [open an issue](https://github.com/J1Buskens/evcc/issues) in Github
 
 ## Authors & contributors
 
-EVCC is maintained by [andig](https://github.com/evcc-io/evcc).
+EVCC is maintained by [andig](https://github.com/J1Buskens/evcc).
 
 Hass.io add-on created by [cathiele](https://github.com/cathiele).
 
@@ -50,7 +50,7 @@ Contributions by [Tscherno](https://github.com/Tscherno).
 
 MIT License
 
-Copyright (c) 2020 [andig](https://github.com/evcc-io/evcc)
+Copyright (c) 2020 [andig](https://github.com/J1Buskens/evcc)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

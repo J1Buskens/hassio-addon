@@ -1,10 +1,10 @@
 # evcc 🚘☀️
 
-[![Build Status](https://github.com/evcc-io/evcc/workflows/Build/badge.svg)](https://github.com/evcc-io/evcc/actions?query=workflow%3ABuild)
-[![Code Quality](https://goreportcard.com/badge/github.com/evcc-io/evcc)](https://goreportcard.com/report/github.com/evcc-io/evcc)
-[![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20VS%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/evcc-io/evcc)
+[![Build Status](https://github.com/J1Buskens/evcc/workflows/Build/badge.svg)](https://github.com/J1Buskens/evcc/actions?query=workflow%3ABuild)
+[![Code Quality](https://goreportcard.com/badge/github.com/J1Buskens/evcc)](https://goreportcard.com/report/github.com/J1Buskens/evcc)
+[![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20VS%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/J1Buskens/evcc)
 [![OSS hosting by cloudsmith](https://img.shields.io/badge/OSS%20hosting%20by-cloudsmith-blue?logo=cloudsmith)](https://cloudsmith.io/~evcc/packages/)
-[![Latest Version](https://img.shields.io/github/release/evcc-io/evcc.svg)](https://github.com/evcc-io/evcc/releases)
+[![Latest Version](https://img.shields.io/github/release/J1Buskens/evcc.svg)](https://github.com/J1Buskens/evcc/releases)
 <!-- [![Pulls from Docker Hub](https://img.shields.io/docker/pulls/andig/evcc.svg)](https://hub.docker.com/r/andig/evcc) -->
 <!-- [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=48YVXXA7BDNC2) -->
 
@@ -36,7 +36,7 @@ evcc is an extensible EV Charge Controller with PV integration implemented in [G
 - logging using [InfluxDB](https://www.influxdata.com) and [Grafana](https://grafana.com/grafana/)
 - granular charge power control down to mA steps with supported chargers (labeled by e.g. smartWB als [OLC](https://board.evse-wifi.de/viewtopic.php?f=16&t=187))
 - REST and MQTT [APIs](https://docs.evcc.io/docs/reference/api) for integration with home automation systems
-- HomeAssistant [add-on](https://github.com/evcc-io/evcc-hassio-addon)
+- HomeAssistant [add-on](https://github.com/J1Buskens/evcc-hassio-addon)
 
 ## Getting Started
 
