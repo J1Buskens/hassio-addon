@@ -1,4 +1,5 @@
 # evcc-hassio-addon
+[readme addon]
 EVCC Add-on for Hass.io (Home Assistant Add-on: EVCC)
 
 # Installation
